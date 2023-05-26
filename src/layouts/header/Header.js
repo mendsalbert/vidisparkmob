@@ -59,14 +59,14 @@ const Header = () => {
               Create
             </a>
           </div>
-          <ConnectButton
+          {/* <ConnectButton
             className="tw-mx-8"
             accountStatus={"avatar"}
             showBalance={{
               smallScreen: true,
               largeScreen: true,
             }}
-          />
+          /> */}
           {/*/HEADER BUTTON*/}
           {/*HEADER ICONS*/}
 

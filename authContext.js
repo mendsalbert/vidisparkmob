@@ -70,7 +70,7 @@ export const AuthProvider = ({ children }) => {
 
   useEffect(() => {
     setupWeaveDB();
-    login();
+    // login();
     checkUser();
   }, []);
 

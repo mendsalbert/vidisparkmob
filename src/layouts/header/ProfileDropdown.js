@@ -32,7 +32,7 @@ const ProfileDropdown = ({ address }) => {
     moodChange(dayMood.current);
   };
 
-  const { userInfo } = useUser();
+  const { userInfo, users } = useUser();
   let user = userInfo[0]?.data;
 
   return (
@@ -54,9 +54,9 @@ const ProfileDropdown = ({ address }) => {
         onClick={() => setToggle(!toggle)}
       >
         <picture>
-          <source type="image/avif" srcSet={user?.avatarUrl} />
+          <source type="image/avif" srcSet={users[0]?.data?.avatarUrl} />
           <img
-            src={user?.avatarUrl}
+            src={users[0]?.data?.avatarUrl}
             alt="avatar"
             loading="lazy"
             width={100}

@@ -28,7 +28,8 @@ export const useUser = () => {
   }, []);
 
   const bigNumber = ethers.BigNumber.from(balance?.toString() || "0000");
-  const etherValue = ethers.utils.formatUnits(bigNumber, 18);
+  // const etherValue = ethers.utils.formatUnits(bigNumber, 18);
+  const etherValue = 10;
 
   const [users, setUsers] = useState([]);
   useEffect(() => {
