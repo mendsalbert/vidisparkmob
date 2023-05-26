@@ -14,20 +14,20 @@ export const useUser = () => {
   const router = useRouter();
   const { address } = useAccount();
 
-  const [balance, setBalance] = useState(null);
+  // const [balance, setBalance] = useState(null);
 
-  useEffect(() => {
-    const fetchBal = async () => {
-      let res = await getBal(
-        address || "0x5d6124b99fe94af73377bb740ad9a13635185785"
-      );
-      setBalance(res);
-      // console.log(res);
-    };
-    fetchBal();
-  }, []);
+  // useEffect(() => {
+  //   const fetchBal = async () => {
+  //     let res = await getBal(
+  //       address || "0x5d6124b99fe94af73377bb740ad9a13635185785"
+  //     );
+  //     setBalance(res);
+  //     // console.log(res);
+  //   };
+  //   fetchBal();
+  // }, []);
 
-  const bigNumber = ethers.BigNumber.from(balance?.toString() || "0000");
+  // const bigNumber = ethers.BigNumber.from(balance?.toString() || "0000");
   // const etherValue = ethers.utils.formatUnits(bigNumber, 18);
   const etherValue = 10;
 
