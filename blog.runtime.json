@@ -1,0 +1,50 @@
+{
+  "models": {
+    "Profile": {
+      "id": "kjzl6hvfrbw6c75p6k92r60pazq9tniu7ivbaqe5q4q9t3zv90agdozmaep93ag",
+      "accountRelation": { "type": "single" }
+    },
+    "Article": {
+      "id": "kjzl6hvfrbw6c98jdh9j2fce9ewyxj8atvny7ipj3mh7ydmj8zmi99clvzzadou",
+      "accountRelation": { "type": "list" }
+    },
+    "Comment": {
+      "id": "kjzl6hvfrbw6c8cclqft857c0i6uynfv5o3ljsy4d9n15kzjmxyv2m7wa4gstn2",
+      "accountRelation": { "type": "list" }
+    }
+  },
+  "objects": {
+    "Profile": {
+      "bio": { "type": "string", "required": false },
+      "name": { "type": "string", "required": true },
+      "author": { "type": "view", "viewType": "documentAccount" }
+    },
+    "Article": {
+      "date": { "type": "datetime", "required": true },
+      "title": { "type": "string", "required": true },
+      "content": { "type": "string", "required": true },
+      "profileId": { "type": "streamid", "required": true },
+      "author": { "type": "view", "viewType": "documentAccount" },
+      "comments": {
+        "type": "view",
+        "viewType": "relation",
+        "relation": {
+          "source": "queryConnection",
+          "model": "kjzl6hvfrbw6c8cclqft857c0i6uynfv5o3ljsy4d9n15kzjmxyv2m7wa4gstn2",
+          "property": "articleId"
+        }
+      }
+    },
+    "Comment": {
+      "content": { "type": "string", "required": true },
+      "articleId": { "type": "streamid", "required": true },
+      "author": { "type": "view", "viewType": "documentAccount" }
+    }
+  },
+  "enums": {},
+  "accountData": {
+    "profile": { "type": "node", "name": "Profile" },
+    "articleList": { "type": "connection", "name": "Article" },
+    "commentList": { "type": "connection", "name": "Comment" }
+  }
+}

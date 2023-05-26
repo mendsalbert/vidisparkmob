@@ -1,0 +1,274 @@
+[
+  {
+    "creator": {
+      "name": "Jackie Jones",
+      "img": "/img/avatar-2.png",
+      "username": "JackieJ",
+      "varified": true
+    },
+    "collection": "196",
+    "owned": "32",
+    "avgPurchasePrice": "4.530",
+    "totalPurchased": "230.580",
+    "topPurchased": "26.000",
+    "itemResold": "47",
+    "resellPrice": "1.693",
+    "resold": "68.235",
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Dexter Stark",
+      "img": "/img/avatar.png",
+      "username": "dexterstark",
+      "varified": true
+    },
+    "collection": "153",
+    "owned": "44",
+    "avgPurchasePrice": "4.586",
+    "totalPurchased": "265.362",
+    "topPurchased": "12.354",
+    "itemResold": "34",
+    "resellPrice": "1.224",
+    "resold": "49.258",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "JennArt",
+      "img": "/img/avatar-13.png",
+      "username": "jennart",
+      "varified": false
+    },
+    "collection": "132",
+    "owned": "5",
+    "avgPurchasePrice": "2.365",
+    "totalPurchased": "102.365",
+    "topPurchased": "6.322",
+    "itemResold": "30",
+    "resellPrice": "2.014",
+    "resold": "60.255",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "Derek Greyson",
+      "img": "/img/avatar-14.png",
+      "username": "dgreyson",
+      "varified": false
+    },
+    "collection": "98",
+    "owned": "12",
+    "avgPurchasePrice": "3.124",
+    "totalPurchased": "154.236",
+    "topPurchased": "30.254",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "The Green Goo",
+      "img": "/img/avatar-3.png",
+      "username": "daGreenGoo",
+      "varified": true
+    },
+    "collection": "87",
+    "owned": "36",
+    "avgPurchasePrice": "983",
+    "totalPurchased": "96.785",
+    "topPurchased": "1.255",
+    "itemResold": "27",
+    "resellPrice": "1.277",
+    "resold": "29.325",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "Crimson Ray",
+      "img": "/img/avatar-15.png",
+      "username": "crimsonray",
+      "varified": false
+    },
+    "collection": "971",
+    "owned": "9",
+    "avgPurchasePrice": "1.235",
+    "totalPurchased": "100.254",
+    "topPurchased": "4.253",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Noir Artworks",
+      "img": "/img/avatar-5.png",
+      "username": "noirArtks",
+      "varified": true
+    },
+    "collection": "70",
+    "owned": "0",
+    "avgPurchasePrice": "4.255",
+    "totalPurchased": "247.122",
+    "topPurchased": "24.333",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Nicholas Stevens",
+      "img": "/img/avatar-10.png",
+      "username": "nickstevens",
+      "varified": true
+    },
+    "collection": "54",
+    "owned": "5",
+    "avgPurchasePrice": "3.253",
+    "totalPurchased": "199.548",
+    "topPurchased": "18.254",
+    "itemResold": "33",
+    "resellPrice": "945",
+    "resold": "34.256",
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Jackie Jones",
+      "img": "/img/avatar-2.png",
+      "username": "JackieJ",
+      "varified": true
+    },
+    "collection": "196",
+    "owned": "32",
+    "avgPurchasePrice": "4.530",
+    "totalPurchased": "230.580",
+    "topPurchased": "26.000",
+    "itemResold": "47",
+    "resellPrice": "1.693",
+    "resold": "68.235",
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Dexter Stark",
+      "img": "/img/avatar.png",
+      "username": "dexterstark",
+      "varified": true
+    },
+    "collection": "153",
+    "owned": "44",
+    "avgPurchasePrice": "4.586",
+    "totalPurchased": "265.362",
+    "topPurchased": "12.354",
+    "itemResold": "34",
+    "resellPrice": "1.224",
+    "resold": "49.258",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "JennArt",
+      "img": "/img/avatar-13.png",
+      "username": "jennart",
+      "varified": false
+    },
+    "collection": "132",
+    "owned": "5",
+    "avgPurchasePrice": "2.365",
+    "totalPurchased": "102.365",
+    "topPurchased": "6.322",
+    "itemResold": "30",
+    "resellPrice": "2.014",
+    "resold": "60.255",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "Derek Greyson",
+      "img": "/img/avatar-14.png",
+      "username": "dgreyson",
+      "varified": false
+    },
+    "collection": "98",
+    "owned": "12",
+    "avgPurchasePrice": "3.124",
+    "totalPurchased": "154.236",
+    "topPurchased": "30.254",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "The Green Goo",
+      "img": "/img/avatar-3.png",
+      "username": "daGreenGoo",
+      "varified": true
+    },
+    "collection": "87",
+    "owned": "36",
+    "avgPurchasePrice": "983",
+    "totalPurchased": "96.785",
+    "topPurchased": "1.255",
+    "itemResold": "27",
+    "resellPrice": "1.277",
+    "resold": "29.325",
+    "time": "week"
+  },
+  {
+    "creator": {
+      "name": "Crimson Ray",
+      "img": "/img/avatar-15.png",
+      "username": "crimsonray",
+      "varified": false
+    },
+    "collection": "971",
+    "owned": "9",
+    "avgPurchasePrice": "1.235",
+    "totalPurchased": "100.254",
+    "topPurchased": "4.253",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Noir Artworks",
+      "img": "/img/avatar-5.png",
+      "username": "noirArtks",
+      "varified": true
+    },
+    "collection": "70",
+    "owned": "0",
+    "avgPurchasePrice": "4.255",
+    "totalPurchased": "247.122",
+    "topPurchased": "24.333",
+    "itemResold": false,
+    "resellPrice": false,
+    "resold": false,
+    "time": "month"
+  },
+  {
+    "creator": {
+      "name": "Nicholas Stevens",
+      "img": "/img/avatar-10.png",
+      "username": "nickstevens",
+      "varified": true
+    },
+    "collection": "54",
+    "owned": "5",
+    "avgPurchasePrice": "3.253",
+    "totalPurchased": "199.548",
+    "topPurchased": "18.254",
+    "itemResold": "33",
+    "resellPrice": "945",
+    "resold": "34.256",
+    "time": "month"
+  }
+]

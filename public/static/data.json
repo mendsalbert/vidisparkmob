@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "The Molten Heart",
+    "image": "img/content/items/featured-item-1.png",
+    "avifImage": "avif/content/items/featured-item-1.avif",
+    "featured": true,
+    "newest": true,
+    "category": ["featured", "illustrations"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "react": "22",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "oldest",
+    "author": {
+      "name": "DexterStark",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Social Blockz",
+    "image": "img/content/items/featured-item-2.png",
+    "avifImage": "avif/content/items/featured-item-2.avif",
+    "featured": true,
+    "newest": false,
+    "category": ["memes", "gaming"],
+    "type": "auctions-only",
+    "price": 3.07,
+    "time": "86400",
+    "react": "68",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "oldest",
+    "author": {
+      "name": "JackieJ",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Breathing Nature",
+    "image": "img/content/items/featured-item-3.png",
+    "avifImage": "avif/content/items/featured-item-3.avif",
+    "featured": true,
+    "newest": true,
+    "category": ["pop-culture", "illustrations"],
+    "type": "buy-now",
+    "price": 4.07,
+    "react": "105",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "author": {
+      "name": "DexterStark",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Flow of Planets",
+    "image": "img/content/items/featured-item-4.png",
+    "avifImage": "avif/content/items/featured-item-4.avif",
+    "featured": true,
+    "newest": false,
+    "category": ["nsfw", "3d-artwork"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-31 4:45:00",
+    "react": "60",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "author": {
+      "name": "beardedwndr",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "MushRoom Popcorn",
+    "image": "img/content/items/featured-item-5.png",
+    "avifImage": "avif/content/items/featured-item-5.avif",
+    "featured": true,
+    "newest": true,
+    "category": ["looping-artwork", "photography"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 21:35:00",
+    "react": "23",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "author": {
+      "name": "DexterStark",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Golden Expansion",
+    "image": "img/content/items/featured-item-6.png",
+    "avifImage": "avif/content/items/featured-item-6.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["gaming", "nsfw"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "react": "36",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "author": {
+      "name": "DexterStark",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Soul Picz Block",
+    "image": "img/content/items/featured-item-8.png",
+    "avifImage": "avif/content/items/featured-item-8.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["pop-culture", "memes"],
+    "type": "buy-now",
+    "price": 4.07,
+    "time": "2022-09-27 18:45:00",
+    "react": "98",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "author": {
+      "name": "beardedwndr",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Bubblegum Dream",
+    "image": "img/content/items/featured-item-9.png",
+    "avifImage": "avif/content/items/featured-item-9.avif",
+    "featured": false,
+    "newest": false,
+    "category": ["illustrations", "gaming"],
+    "type": "buy-now",
+    "price": 4.07,
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "react": "25",
+    "author": {
+      "name": "beardedwndr",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Lost in Illustration",
+    "image": "img/content/items/featured-item-10.png",
+    "avifImage": "avif/content/items/featured-item-10.avif",
+    "featured": false,
+    "newest": false,
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "category": ["3d-artwork", "photography"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "react": "19",
+    "author": {
+      "name": "daGreenGoo",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Canary’s Kitchen",
+    "image": "img/content/items/featured-item-11.png",
+    "avifImage": "avif/content/items/featured-item-11.avif",
+    "featured": false,
+    "newest": true,
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "category": ["looping-artwork", "motion-graphics"],
+    "type": "buy-now",
+    "price": 4.07,
+    "time": "2022-09-27 23:00:00",
+    "react": "36",
+    "author": {
+      "name": "noirArtks",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Octo-Oceanic",
+    "image": "img/content/items/featured-item-12.png",
+    "avifImage": "avif/content/items/featured-item-12.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["nsfw", "pop-culture"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "react": "48",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "author": {
+      "name": "daGreenGoo",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Vengeful Stare",
+    "image": "img/content/items/featured-item-13.png",
+    "avifImage": "avif/content/items/featured-item-13.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["3d-artwork", "looping-artwork"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 00:00:00",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "react": "14",
+    "author": {
+      "name": "noirArtks",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Neon Stringers",
+    "image": "img/content/items/featured-item-14.png",
+    "avifImage": "avif/content/items/featured-item-14.avif",
+    "featured": false,
+    "newest": false,
+    "category": ["featured", "memes"],
+    "type": "buy-now",
+    "price": 4.07,
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "react": "41",
+    "author": {
+      "name": "noirArtks",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Quartz Fantasy",
+    "image": "img/content/items/featured-item-15.png",
+    "avifImage": "avif/content/items/featured-item-15.avif",
+    "featured": false,
+    "newest": false,
+    "category": ["photography", "gaming"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 17:00:00",
+    "react": "12",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "author": {
+      "name": "nickstevens",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 16,
+    "name": "The Molten Heart",
+    "image": "img/content/items/featured-item-1.png",
+    "avifImage": "avif/content/items/featured-item-1.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["featured", "looping-artwork"],
+    "type": "buy-now",
+    "price": 4.07,
+    "time": "2022-09-27 22:10:50",
+    "react": "88",
+    "creatorVerified": false,
+    "ending": false,
+    "order": "trending",
+    "author": {
+      "name": "nickstevens",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Social Blockz",
+    "image": "img/content/items/featured-item-2.png",
+    "avifImage": "avif/content/items/featured-item-2.avif",
+    "featured": false,
+    "newest": true,
+    "category": ["pop-culture", "motion-graphics"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 09:00:00",
+    "react": "64",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "author": {
+      "name": "beardedwndr",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  },
+  {
+    "id": 18,
+    "name": "MushRoom Popcorn",
+    "image": "img/content/items/featured-item-3.png",
+    "avifImage": "avif/content/items/featured-item-3.avif",
+    "featured": false,
+    "newest": false,
+    "category": ["gaming", "photography"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 00:54:00",
+    "react": "17",
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "author": {
+      "name": "DexterStark",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Jellyfish Galaxy",
+    "image": "img/content/items/featured-item-4.png",
+    "avifImage": "avif/content/items/featured-item-4.avif",
+    "featured": false,
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "newest": true,
+    "category": ["illustrations", "nsfw"],
+    "type": "auctions-only",
+    "price": 4.07,
+    "time": "2022-09-27 00:00:00",
+    "react": "53",
+    "author": {
+      "name": "JackieJ",
+      "email": "",
+      "image": "img/avatar.png"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Lost in Illustration",
+    "image": "img/content/items/featured-item-5.png",
+    "avifImage": "avif/content/items/featured-item-5.avif",
+    "featured": false,
+    "newest": false,
+    "creatorVerified": true,
+    "ending": true,
+    "order": "newest",
+    "category": ["3d-artwork", "looping-artwork"],
+    "type": "buy-now",
+    "price": 4.07,
+    "time": "2022-09-27 15:15:15",
+    "react": "85",
+    "author": {
+      "name": "JackieJ",
+      "email": "",
+      "image": "img/avatar-2.png"
+    }
+  }
+]
