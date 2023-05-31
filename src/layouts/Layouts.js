@@ -43,7 +43,7 @@ const Layouts = ({ children, getData, getCreator, getCollector, getBlogs }) => {
         <Header />
         <Nav />
         {children}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </Fragment>
   );
